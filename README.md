@@ -14,7 +14,7 @@ Get random quote
 
 ```javascript
 
-const { randomQuote, authorQuotes, getQuotes, searchQuotes } = require("./index");
+const { randomQuote, authorQuotes, getQuotes, searchQuotes } = require("quotegarden");
 
 randomQuote()
   .then((quote) => {
