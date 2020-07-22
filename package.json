@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [
     "quotegarden",
     "quotes",
@@ -16,9 +13,17 @@
     "quotesapi",
     "quotesrandom"
   ],
-  "author": "Parthamesh More",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pprathameshmore/QuoteGardenNPM"
+  },
+  "author": "Prathamesh More",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
+  },
+  "homepage": "https://github.com/pprathameshmore/QuoteGardenNPM",
+  "bugs": {
+    "url": "https://github.com/pprathameshmore/QuoteGardenNPM/issues"
   }
 }
