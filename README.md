@@ -26,4 +26,7 @@ randomQuote()
 
   ```
 
+## Contributing
+All feedback and contributions are welcome!
+
 

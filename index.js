@@ -5,7 +5,7 @@ const {
   authorQuotes,
   getQuotes,
   searchQuotes,
-} = require("./quotes");
+} = require("./lib/quotes");
 
 module.exports = {
   randomQuote,
