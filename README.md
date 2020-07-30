@@ -16,7 +16,7 @@ Get random quote
 
 ```javascript
 
-const { randomQuote, authorQuotes, genreQuotes, getQuotes, searchQuotes } = require("quotegarden");
+const { randomQuote, authorQuotes, genreQuotes, getQuotes, searchQuotes } = require("@pprathameshmore/quotegardennpm");
 
 randomQuote()
   .then((quote) => {
