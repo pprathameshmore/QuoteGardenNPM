@@ -1,5 +1,7 @@
 # QuoteGarden
 
+A NPM Package for quotes. The database currently includes more than 75000 quotes.
+
 QuoteGarden library is just wrapper around https://github.com/pprathameshmore/QuoteGarden
 
 ## Install
@@ -8,7 +10,7 @@ QuoteGarden library is just wrapper around https://github.com/pprathameshmore/Qu
 npm i quotegarden
 ```
 
-## How to use?
+## Usage
 
 Get random quote
 

@@ -1,8 +1,8 @@
 "use strict";
-
 const {
   randomQuote,
   authorQuotes,
+  genreQuotes,
   getQuotes,
   searchQuotes,
 } = require("./lib/quotes");
@@ -10,6 +10,7 @@ const {
 module.exports = {
   randomQuote,
   authorQuotes,
+  genreQuotes,
   getQuotes,
   searchQuotes,
 };
