@@ -7,7 +7,7 @@ QuoteGarden library is just wrapper around https://github.com/pprathameshmore/Qu
 ## Install
 
 ```
-npm i quotegarden
+npm install @pprathameshmore/quotegardennpm@1.1.0
 ```
 
 ## Usage
